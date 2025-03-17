@@ -39,6 +39,8 @@ INSTALLED_APPS = [
 ]
 ```
 
+6. urls.py → views.py → templates/
+
 ---
 - MTV
 
