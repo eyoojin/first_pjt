@@ -1,4 +1,4 @@
-# Djangp
+# Django
 
 ## 0. setting
 
