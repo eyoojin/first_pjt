@@ -58,11 +58,11 @@ INSTALLED_APPS = [
 
 *firs_pjt/: project folder*
 
-    *first_pjt/__init__.py: python package*
+*first_pjt/__init__.py: python package*
 
-    *first_pjt/settings: setting*
+*first_pjt/settings: setting*
 
-    *first_pjt/urls: table of contents*
+*first_pjt/urls: table of contents*
 
 - 링크
 
@@ -74,9 +74,9 @@ INSTALLED_APPS = [
 
 *first_app/: app folder*
 
-    *first_app/models.py: MTV의 m(DB)*
+*first_app/models.py: MTV의 m(DB)*
 
-    *firs_app/views.py: MTV의 v(Python)*
+*firs_app/views.py: MTV의 v(Python)*
 
 *templates/: MTV의 t(html)*
 
