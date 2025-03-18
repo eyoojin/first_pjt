@@ -27,6 +27,7 @@ urlpatterns = [
     path('hello/', views.hello),
     path('lunch/', views.lunch),
     path('lotto/', views.lotto),
+
     # vaiable routing (변수화된 주소)
     path('profile/<username>/', views.profile),
     # 127.0.0.1:8000/profile/username/
@@ -34,6 +35,8 @@ urlpatterns = [
     # django식 해결법 int: -> str이 기본
     
     path('articles/', views.articles),
+    path('ping/', views.ping),
+    path('pong/', views.pong),
 ]   
 
 # 경로 설정

@@ -85,3 +85,15 @@ INSTALLED_APPS = [
 - bootstrap
 
 *Include via CDN*
+
+- search
+
+*ctrl + p*
+
+- <from>, <input>
+
+*submit이 눌렸을 때 해당 form의 데이터를 action으로 보냄*
+
+- `request.GET.get('key')`
+
+*request 객체 . dictionary . key에 해당하는 값을 가져오는 함수*
